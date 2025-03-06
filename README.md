@@ -60,11 +60,7 @@ python app.py
 - **For Analysis**: Open Jupyter Notebooks in the `notebooks/` folder and run the cells.
 - **For App**: Access the web-based UI to interact with data and view visualizations.
 
-## 🎓 Certifications
-- **Data Science Course** – Codebasics
-- **Python for Data Analysis** – [Your Certification Provider]
-- **Statistics & Hypothesis Testing** – [Your Certification Provider]
-- **Machine Learning Fundamentals** – [Your Certification Provider]
+
 
 ## 📌 Future Enhancements
 - Implement **Machine Learning models** for predictive analysis.
@@ -72,7 +68,5 @@ python app.py
 - Improve UI/UX with enhanced data interactivity.
 
 ---
-🔗 **Author:** Devang Patel  
-📧 Contact: [Your Email]  
-📌 GitHub: [Your Profile Link]
+
 
